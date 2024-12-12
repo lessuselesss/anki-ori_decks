@@ -149,3 +149,33 @@ Like "low" but shorter
 a-MAR
 
 Like "ah" then "mar" (as in "March")
+
+## How do you say אַלּוֹנָה?
+a-LO-nah
+
+Like "ah" then "low" then "nah"
+
+## How do you say פְרֶנְקֵל?
+FREN-kel
+
+Like "friend" without the 'd', then "kel"
+
+## How do you say שׁוּלָה?
+shoo-LAH
+
+Like "shoe" then "lah"
+
+## How do you say מוֹדָן?
+mo-DAN
+
+Like "mow" then "dawn"
+
+## How do you say אַתְּ?
+at
+
+Like "at" but slightly shorter
+
+## How do you say אֶצְבַּע?
+etz-BA
+
+Like "etz" then "bah"

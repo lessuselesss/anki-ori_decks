@@ -48,3 +48,8 @@ JavaScript's hoisting behavior moves declarations to the top of their scope duri
 - let/const are hoisted but remain in TDZ until declaration
 
 Please convert the content I provide into Anki cards following this markdown format.
+
+
+<!-- Look at the anki card deck (#) and come up with some more cards (##)  based on Eifo_Gveret_Zeret(Book).md
+
+Please use the same formatting found in the "Basic_Hebrew-*.md file. -->

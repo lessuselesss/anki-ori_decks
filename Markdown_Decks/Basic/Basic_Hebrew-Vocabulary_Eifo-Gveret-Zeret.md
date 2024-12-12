@@ -247,3 +247,39 @@ Pronunciation: a-MAH (like "ah" then "mah")
 ## What is the Hebrew word for "Curly"?
 מִתְלַתֶּלֶת
 Pronunciation: mit-la-TE-let (like "meet" then "lah" then "tell" then "let")
+
+## What does אֶצְבַּע mean?
+It means "finger"
+Pronunciation: etz-BA (like "etz" then "bah")
+
+## What does מוֹדָן mean?
+It means "Modan" (author's surname)
+Pronunciation: mo-DAN (like "mow" then "dawn")
+
+## What does שׁוּלָה mean?
+It means "Shula" (author's first name)
+Pronunciation: shoo-LAH (like "shoe" then "lah")
+
+## What does אַלּוֹנָה mean?
+It means "Alona" (illustrator's first name)
+Pronunciation: a-lo-NAH (like "ah" then "low" then "nah")
+
+## What does פְרֶנְקֵל mean?
+It means "Frankel" (illustrator's surname)
+Pronunciation: FREN-kel (like "friend" without the "d" then "kell")
+
+## What is the Hebrew word for "Finger"?
+אֶצְבַּע
+Pronunciation: etz-BA (like "etz" then "bah")
+
+## What is the Hebrew word for "Game of"?
+מִשְׂחַק
+Pronunciation: mis-KHAK (like "miss" then "hawk" with a throat sound)
+
+## What is the meaning of מִשְׂחַק אֶצְבָּעוֹת?
+It means "Game of Fingers"
+Pronunciation: mis-KHAK etz-ba-OT (like "miss-hawk" then "etz-bah-oat")
+
+## What is the meaning of אַלּוֹנָה פְרֶנְקֵל?
+It means "Alona Frankel" (the illustrator's name)
+Pronunciation: a-lo-NAH FREN-kel

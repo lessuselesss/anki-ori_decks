@@ -12,19 +12,24 @@ Examples:
 - וְאָמְרָה (and she said)
 - וְהָלַךְ (and he went)
 
-# Character and Vocabulary Groups
+## What's the pattern for asking "where" questions in Hebrew?
+The word אֵיפֹה (eifo) at the start of the question
+Example:
+- אֵיפֹה גְּבֶרֶת זֶרֶת? (Where is Mrs. Zeret?)
 
-## Match the characters with their meanings:
-% Characters in the story:
-- אָדוֹן אֲגוּדָל = Mr. Thumb
-- גְּבֶרֶת זֶרֶת = Mrs. Pinky
-- גְּבֶרֶת אַמָּה = Mrs. Middle Finger
+## What's the pattern for "maybe" questions in Hebrew?
+Start with אוּלַי (ulai)
+Example:
+- אוּלַי אַתְּ יוֹדַעַת? (Maybe you know?)
 
-## Group the movement-related vocabulary:
-% Movement words in the story:
-- Direction words:
-  * לְמַעְלָה (up)
-  * לְמַטָּה (down)
-- Action words:
-  * הָלַךְ (went)
-  * חִפְּשָׂה (searched)
+## What's the pattern for addressing someone formally?
+Add אָדוֹן (Mr.) or גְּבֶרֶת (Mrs.) before their name
+Examples:
+- אָדוֹן אֲגוּדָל (Mr. Thumb)
+- גְּבֶרֶת זֶרֶת (Mrs. Pinky)
+
+## How do you express direction in Hebrew?
+Use לְ prefix with מַעְלָה/מַטָּה
+Examples:
+- לְמַעְלָה (upward)
+- לְמַטָּה (downward)

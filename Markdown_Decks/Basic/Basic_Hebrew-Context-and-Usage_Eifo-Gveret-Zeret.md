@@ -1,3 +1,5 @@
+# (Context and Usage) Eifo Gveret Zeret 
+
 ## What's the polite way to ask "perhaps you know?" in the story?
 
 אוּלַי אַתְּ יוֹדַעַת
@@ -39,3 +41,38 @@ Note: Used with the verb חִפְּשָׂה (chipsa - she searched)
 (eifo gveret zeret)
 
 Note: Means "Where is Mrs. Pinky?"
+
+## How is Mr. Thumb's emotional state described in the story?
+
+הִתְגַּעְגֵּעַ מְאוֹד
+(hitga'age'a me'od)
+
+Note: Means "missed very much" - describing how Mr. Thumb felt about Mrs. Pinky
+
+## How is Mrs. Finger described in the story?
+
+גְּבֶרֶת עִם קוּקוּ
+(gveret im kuku)
+
+Note: Means "a lady with a topknot/bun"
+
+## How is Mrs. Amah (Middle Finger) described in the story?
+
+גְּבֶרֶת מִתְלַתֶּלֶת
+(gveret mitlatelet)
+
+Note: Means "a curly lady"
+
+## What's the subtitle of the story?
+
+מִשְׂחַק אֶצְבָּעוֹת
+(miskhak etzba'ot)
+
+Note: Means "A Game of Fingers"
+
+## How do characters respond when they don't know where Mrs. Zeret is?
+
+אֲנִי לֹא יוֹדַעַת
+(ani lo yoda'at)
+
+Note: Means "I don't know" (feminine form)
